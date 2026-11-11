@@ -1,0 +1,18 @@
+Priya Patel
+Frontend Developer
+Email: priya_patel@example.com | Phone: 555-0100
+
+SUMMARY
+Frontend Developer with 3 years of experience building reliable systems and collaborating across teams.
+
+SKILLS
+JavaScript, React, TypeScript, CSS, Figma
+
+EXPERIENCE
+- Senior Frontend Developer, Acme Corp (1-present)
+  Led projects using JavaScript and delivered measurable results.
+- Frontend Developer, Globex Inc (-1-1)
+  Built and maintained core services.
+
+EDUCATION
+B.S. Information Technology, Tech Institute (2021)

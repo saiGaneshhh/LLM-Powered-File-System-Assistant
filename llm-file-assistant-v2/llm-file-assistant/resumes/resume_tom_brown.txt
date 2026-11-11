@@ -1,0 +1,18 @@
+Tom Brown
+Product Manager
+Email: tom_brown@example.com | Phone: 555-0100
+
+SUMMARY
+Product Manager with 8 years of experience building reliable systems and collaborating across teams.
+
+SKILLS
+Roadmapping, Jira, SQL basics, A/B testing, Stakeholder management
+
+EXPERIENCE
+- Senior Product Manager, Acme Corp (6-present)
+  Led projects using Roadmapping and delivered measurable results.
+- Product Manager, Globex Inc (4-6)
+  Built and maintained core services.
+
+EDUCATION
+MBA, Lakeside Business School (2017)
